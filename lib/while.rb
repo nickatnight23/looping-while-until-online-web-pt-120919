@@ -3,7 +3,7 @@ def using_while
 	
   while < 10
 puts "Wingardium Leviosa!"
-index +=1
+leviation_force +=1
 end
 
 
